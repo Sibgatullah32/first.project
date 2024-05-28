@@ -1,0 +1,50 @@
+let assalam = document.querySelector('button');
+assalam.addEventListener('click', showMsg);
+
+function showMsg(){
+    alert("as salamu alaikum wa rahmatullah");
+}
+
+// let roll = document.querySelector('button');
+// roll.addEventListener('click', inputMsg);
+// function inputMsg(){
+//     let name = prompt('Enter Name of Student')
+//     roll.textContent = 'Roll No. 1:' + name;
+// }
+
+// let enternameBtn = document.querySelector('button');
+// enternameBtn.addEventListener('click', showMsg);
+
+// function showMsg(){
+//     alert("as salamu alaikum dare studet hope your well. You are most welcome to our srvice");
+// }
+
+// let nameBtn = document.querySelector('button');
+// nameBtn.addEventListener('click', showMsg);
+// function showMsg(){
+//     alert("as salamu alaikum");
+// }
+// let nameBtn = document.querySelector('button');
+// nameBtn.addEventListener('click',inputMsg);
+// function inputMsg(){
+//     let name = prompt('Enter your name')
+//     nameBtn.textContent = 'our temmate' +name;
+// }
+// let nameBtn = document.querySelector('button');
+// nameBtn.addEventListener('click', inputMsg);
+// function inputMsg(){
+//     let roll = prompt('Enter Your name');
+//     nameBtn.textContent = 'Our Member'+ roll;
+
+
+// let nameBtn = document.querySelector('button');
+// nameBtn.addEventListener('click', showMsg);
+// function showMsg(){
+//     alert ("welcome to our student panel");
+// }
+let assalam = document.querySelector('button');
+assalam.addEventListener('click', showMsg);
+
+function showMsg(){
+    alert ("as salamu alaikum wa rahmatullah");
+}
